@@ -72,6 +72,7 @@ void main() {
   emp1.printDetails();
 
   var address2 = Address('456 River Rd', 'Siem Reap', '17000');
-  var emp2 = Employee.mobileDeveloper('Ronan', 45000, address2, 5);
+  var emp2 = Employee.mobileDeveloper('Serey', 45000, address2, 5);
   emp2.printDetails();
 }
+
